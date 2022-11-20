@@ -30,11 +30,11 @@ const Particle = () => {
             value: 80,
             density: {
               enable: true,
-              value_area: 800,
+              value_area: 5000,
             },
           },
           color: {
-            value: "#ffffff",
+            value: "#010326",
           },
           shape: {
             type: "circle",
@@ -48,7 +48,7 @@ const Particle = () => {
           },
           stroke: {
             width: 1,
-            color: "#ffffff",
+            color: "#010326",
           },
           opacity: {
             value: 0.5,
@@ -73,7 +73,7 @@ const Particle = () => {
           line_linked: {
             enable: true,
             distance: 150,
-            color: "#ffffff",
+            color: "#010326",
             opacity: 0.4,
             width: 1,
           },
@@ -135,7 +135,7 @@ const Particle = () => {
         },
         retina_detect: true,
         background: {
-          color: "010326",
+          color: "#fff",
           image: "",
           position: "50% 50%",
           repeat: "no-repeat",
