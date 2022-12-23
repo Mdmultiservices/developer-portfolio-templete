@@ -7,14 +7,13 @@ import "./LandingPage.css";
 // import FaceSvg from "../assets/mf-avatar.svg";
 import About from "../assets/about-us.png.svg";
 import div_befor from "../assets/div_before.svg";
-import Logo from "../assets/logo.png.svg";
+// import Logo from "../assets/logo.png.svg";
 import Logo3 from "../assets/logo3.png.svg";
 import s1 from "../assets/s1.png.svg";
 import s2 from "../assets/s2.png.svg";
 import s3 from "../assets/s3.png.svg";
 import s4 from "../assets/s4.png.svg";
 import Home_avtar from "../assets/home-right.png.svg";
-
 import { Typewriter } from "react-simple-typewriter";
 
 var navbar = document.querySelector("header");
@@ -33,7 +32,8 @@ const LandingPage = () => {
       <header className="header">
         <div className="content navbar">
           <div className="logo">
-            <img src={Logo} alt={" not found"} />
+            {/* <img src={Logo} alt={" not found"} /> */}
+            <h1>Somesh SD</h1>
           </div>
           <nav>
             <ul>
@@ -54,7 +54,9 @@ const LandingPage = () => {
               </li>
               <div className="drop">
                 <li>
-                  <a href="#">blog</a>
+                  <a href="https://medium.com/@sddahatonde22/how-to-get-a-full-refund-of-linkedin-premium-1129dd5675b8">
+                    blog
+                  </a>
                 </li>
               </div>
               <li>
@@ -129,19 +131,31 @@ const LandingPage = () => {
                 myself
               </h2>
               <p>
-                Whose given. Were gathered. There first subdue greater. Bearing
-                <br />
-                you Whales heaven midst their. Beast creepeth. Fish days.
-              </p>
-              <p>
-                Is give may shall likeness made yielding spirit a itself
-                together
-                <br />
-                created after sea is in beast beginning signs open god you're
-                <br />
-                gathering whose gathered cattle let. Creature whales fruit
-                <br />
-                unto meat the life beginning all in under give two.
+                My name is Somesh Dahatonde and I have more than two years of
+                work experience as a full-stack developer working on the web. I
+                have extensive expertise in both frontend and backend
+                development. I've been using JavaScript and TypeScript
+                professionally for more than two years. Additionally, I am an
+                expert in designing fully responsive websites that are optimised
+                for all devices using frontend frameworks like ReactJS, NextJS,
+                VueJS, Gatsby, etc. I also comprehend the most recent
+                contemporary UI Trends and have a strong foundation in UI/UX
+                Designing. I am knowledgeable with NodeJS and ExpressJS, as well
+                as Koa, Django, and Laravel for the backend. Additionally, I
+                have extensive experience constructing APIs and use the tools
+                hopscotch, insomnia, and postman for designing and developing
+                databases SQL and NoSQL databases are two types I am familiar
+                with. I am familiar with MySQL, PostgreSQL, MongoDB, CrateDB,
+                Cassandra, MS SQL, Redis, and Neo4j. Understand DevOps for AWS
+                (Amazon Web Services), Google Cloud, MS Azure, and Digital Ocean
+                as well. I am familiar with serverless architecture and
+                microservices for cloud architecture, and I primarily utilise
+                the tools for cloud formation listed below (Kubernetes, Jenkins,
+                Jira, GitLab, Github Action, AWS Lambda, and S3). Know a lot
+                about Git, Version Control, and Github while talking about team
+                collaboration. My expertise in project management and product
+                design is also quite strong. I'm also really good at solving
+                difficulties and picking up knowledge on my own.
               </p>
             </div>
             <div className="download-btn">
@@ -237,7 +251,7 @@ const LandingPage = () => {
               <div className="no wid">
                 <div className="sub-no">
                   <p>call us now</p>
-                  <h2 type="tel">(+91) 9021461356</h2>
+                  <h2 type="tel">(+91) 902146****</h2>
                 </div>
               </div>
             </div>
@@ -329,16 +343,26 @@ const LandingPage = () => {
             <h1>SOMESH</h1>
             <h2>follow me</h2>
             <div className="icon">
-              <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+              <a href="https://www.linkedin.com/in/somesh-dahatonde-7a04151b4/">
+                <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+              </a>
+
               <i className="fa fa-instagram" aria-hidden="true"></i>
-              <i className="fa fa-github-square" aria-hidden="true"></i>
+              <a href="https://github.com/Somesh-Dahatonde">
+                {" "}
+                <i className="fa fa-github-square" aria-hidden="true"></i>
+              </a>
+
               <i className="fa fa-twitter-square" aria-hidden="true"></i>
             </div>
           </div>
           <p>
             Copyright ©2022 All rights reserved | This template is made with
             <span>
-              <a href="#"> Somesh Dahatonde </a>
+              <a href="https://github.com/Somesh-Dahatonde ">
+                {" "}
+                Somesh Dahatonde{" "}
+              </a>
             </span>
             with 💓
           </p>

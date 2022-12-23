@@ -67,7 +67,10 @@ body {
   justify-content: space-between;
   height: 100px;
 }
-
+.logo h1 {
+  font-size: 22px;
+  /* text-decoration: dashed; */
+}
 li {
   list-style: none;
 }
@@ -463,10 +466,13 @@ button:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+  -webkit-box-shadow: -1px -3px 48px 4px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: -1px -3px 48px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: -1px -3px 48px 4px rgba(0, 0, 0, 0.5);
   width: 100%;
   height: 483px;
   gap: 50px;
+  border-radius: 10px;
 }
 
 .text {
@@ -528,7 +534,7 @@ button:hover {
   height: 50px;
   border-radius: 5px;
   text-transform: uppercase;
-  border: none;
+  border: 1px solid black;
 }
 
 .footer {
