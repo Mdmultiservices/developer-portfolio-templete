@@ -1,6 +1,4 @@
-# Project Name
-
-Developer Portfolio Template
+###Developer Portfolio Template
 
 ## Description
 
