@@ -1,4 +1,4 @@
-## Developer Portfolio Template
+# Developer Portfolio Template
 
 ## Description
 
@@ -17,20 +17,6 @@ The Developer Portfolio Template is a customizable and responsive template desig
 - Fully customizable: You can easily personalize the template to match your preferences and branding.
 - Responsive design: The template is optimized to work seamlessly on various devices, ensuring a consistent user experience.
 - User-friendly interface: The intuitive layout makes it simple to navigate and showcase your skills and projects effectively.
-
-
-
-## Getting Started
-
-Follow these steps to get started with the Developer Portfolio Template:
-
-1. Clone the repository: `git clone https://github.com/Somesh-Dahatonde/developer-portfolio-templete.git`
-2. Customize the template: Modify the content, colors, and layout according to your requirements.
-3. Add your projects: Showcase your projects by adding them to the portfolio section.
-4. Deploy the template: Host the template on a web server or use GitHub Pages to make it accessible online.
-
-Enjoy using the Developer Portfolio Template! We look forward to seeing your amazing projects showcased in style.
-
 
 
 # Developer Portfolio Template
