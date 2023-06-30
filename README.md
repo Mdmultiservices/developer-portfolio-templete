@@ -13,7 +13,10 @@ The Developer Portfolio Template is a customizable and responsive template desig
 ![Desktop View](https://github.com/Somesh-Dahatonde/developer-portfolio-templete/assets/63030834/b19f5a5a-dcbe-4144-81d5-95c5bef6d050)
 
 
-Uploading SomeshSD - Google Chrome 2023-06-30 13-09-25.mp4…
+
+https://github.com/Somesh-Dahatonde/developer-portfolio-templete/assets/63030834/14947723-6d30-44bd-a56b-1b59e4516acc
+
+
 
 ## Features
 
